@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.xristosgiatas.twa",
+        "sha256_cert_fingerprints": ["3F:60:C8:D1:65:06:2E:91:E6:C5:95:62:F1:5C:16:5B:8E:35:69:4A:31:52:5A:AA:6D:21:5E:44:91:F9:2B:A8"]
+      }
+    }]
